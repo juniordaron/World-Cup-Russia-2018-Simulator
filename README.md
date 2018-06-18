@@ -4,7 +4,7 @@ Final project for the subject Operative Systems in UCLA Venezuela
 Guía de instalación
 Dado que un requisito del programa es que sea desarrollado en Python para Linux, **se asume que el usuario cuenta con una distribución 
 GNU/Linux con el lenguaje Python en una versión 3.x**. En nuestro caso trabajamos con Debian 8.10 Jessie y Kubuntu 18.04, usando Python 
-3.6.5. 
+3.6.5. **Las siguientes instrucciones son van dirigidas a la distribución Ubuntu.**
 
 Lo primero es abrir una terminal para ejecutar los comandos. El programa usa la librería blessings, por lo que es necesario descargarla, 
 para esto, primero instalamos pip ejecutando el siguiente comando:
